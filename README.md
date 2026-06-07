@@ -9,7 +9,7 @@ This repository contains coursework from **CS61C: Great Ideas of Computer Archit
 
 ## Key Concepts Covered:
 
-- **Assembly Language**: Writing and understanding low-level programs using MIPS assembly language.
+- **Assembly Language**: Writing and understanding low-level programs using RISC-V assembly language.
 - **CPU Design**: The structure and design of processors, including the fetch-decode-execute cycle.
 - **Memory Hierarchy**: Understanding caches, virtual memory, and memory management.
 - **Parallelism**: Techniques for parallel processing and the architecture supporting it.
@@ -17,8 +17,10 @@ This repository contains coursework from **CS61C: Great Ideas of Computer Archit
 
 ## How to Navigate:
 
-- **Labs**: All lab assignments are located under the `Labs/` directory, each containing MIPS assembly code, hardware design exercises, and simulations.
+- **Labs**: All lab assignments are located under the `Labs/` directory, each containing RISC-V assembly code, hardware design exercises, and simulations.
 - **Homework**: The `Homework/` directory contains problem sets and solutions that dive into computer architecture topics like CPU performance and memory systems.
 
 
-Explore the coursework to see how computer architecture concepts are applied in practice, including low-level programming with assembly, CPU design, and parallelism.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
